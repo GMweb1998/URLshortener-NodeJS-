@@ -1,0 +1,4 @@
+{
+"DB_CONNECT": "mongodb://localhost:27017/URLdb",
+"baseUrl":"http://localhost:5000"
+}
